@@ -11,14 +11,15 @@ This is a property management application built using CakePHP that allows users 
 2. Install dependencies using Composer.
    ```bash
    composer install
-Configure your database settings in config/app.php.
-Run database migrations to set up the required tables.
+
+3. Configure your database settings in config/app.php.
+4. Run database migrations to set up the required tables.
     ```bash
     
     bin/cake migrations migrate
     
-Start the CakePHP development server.
+5. Start the CakePHP development server.
     ```bash
     
     bin/cake server
-Access the application in your browser at http://localhost
+Access the application in your browser at http://localhost/{your_php_database_name}
