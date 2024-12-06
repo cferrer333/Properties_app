@@ -1,11 +1,12 @@
 # Property Management Application
 This is a property management application built using CakePHP that allows users to manage and view properties
 
-<b>Features</b>
+#Features
 Add Property: Add new properties with details such as address, bedrooms, baths, price, and a upload a photo
 Property Information: View properties and details for each property
 Search Functionality: Easily search for properties
-Installation
+
+#Installation
 Clone the repository to your local machine.
 Install dependencies using Composer.
 bash
